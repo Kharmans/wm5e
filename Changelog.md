@@ -1,5 +1,6 @@
-## 14.530.1
-* Compatibility bump for Foundry VTT 14 and D&D5e 5.3.0.
+## 13.5330.1
+* Fix for Cleave and Graze not working properly checking in some cases.
+* Compatibility bump for D&D5e 5.3.3.
 
 ## 13.5250.6
 * Added a weapon mastery reference icon to dnd5e item sheets when the selected mastery has a linked Journal entry or page.
