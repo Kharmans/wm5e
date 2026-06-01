@@ -1,3 +1,6 @@
+## 14.533.1.1
+* `module.json` quick fix.
+
 ## 14.533.1
 * Fix for Cleave and Graze not working properly checking in some cases.
 * Compatibility bump for Foundry v14.363 and D&D5E v5.3.3
