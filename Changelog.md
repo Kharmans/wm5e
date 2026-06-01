@@ -1,3 +1,6 @@
+## 14.530.1.2
+* `module.json` quick fix
+
 ## 14.530.1.1
 * Fix for Cleave and Graze not working properly checking in some cases.
 * Compatibility bump for D&D5e 5.3.3.
